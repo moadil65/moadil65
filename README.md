@@ -2,7 +2,7 @@
 
 Currently pursuing my degree, I am dedicated to expanding my knowledge and honing my skills in **AI, Machine Learning, and Data Science**. I’m always eager to apply what I learn through meaningful projects and collaborations.
 
-👀 I’m interested in **Artificial Intelligence, Machine Learning, Web Development, and Data Analysis**
+👀 I’m interested in **Artificial Intelligence, Machine Learning, Data Analysis, and Web Development**
 
 🌱 I’m currently learning **AI Python**, **Javascript**, **MATLAB for numerical computing**, and **Data handling with R**
 
